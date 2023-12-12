@@ -1,9 +1,6 @@
 # MASK2YOLO
-a source for converting masked binary images collections to yolo v8 format
-
-
-
-Consider you have folders in structure as below:
+**a source for converting masked binary images collections to yolo v8 format
+Consider you have folders in structure as below:**
     
 Dataset:
     train_images: source images collection
@@ -19,9 +16,8 @@ Dataset:
         label1: binary masked file for each source iamge for label1 collection
         label1: binary masked file for each source iamge for label1 collection
         
-for example set base_path = 'D:/Dataset/' and run the code
-
-two folders will be generated in 
+**for example set base_path = 'D:/Dataset/' and run the code 
+two folders will be generated as below: **
 
 Dataset:
     TR: (train)
