@@ -20,8 +20,6 @@ Dataset:
         label1: binary masked file for each source iamge for label1 collection
         
         
-        
-############################################        
 
 just set base_path = "D:/Dataset/"
 and run the code
