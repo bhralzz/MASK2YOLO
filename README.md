@@ -19,10 +19,7 @@ Dataset:
         label1: binary masked file for each source iamge for label1 collection
         label1: binary masked file for each source iamge for label1 collection
         
-        
-
-just set base_path = "D:/Dataset/"
-and run the code
+for example set base_path = 'D:/Dataset/' and run the code
 
 two folders will be generated in 
 
