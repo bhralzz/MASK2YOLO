@@ -18,11 +18,11 @@ Dataset
 
 -valid_labels:
 
---label1: binary masked file for each source iamge for label1 collection
+--label1: binary masked files for each source iamge for label1 collection
 
---label2: binary masked file for each source iamge for label2 collection
+--label2: binary masked files for each source iamge for label2 collection
 
---label3: binary masked file for each source iamge for label3 collection
+--label3: binary masked files for each source iamge for label3 collection
 
         
         
@@ -30,11 +30,11 @@ Dataset
 
 -valid_labels:
 
---label1: binary masked file for each source iamge for label1 collection
+--label1: binary masked files for each source iamge for label1 collection
 
---label2: binary masked file for each source iamge for label2 collection
+--label2: binary masked files for each source iamge for label2 collection
 
---label3: binary masked file for each source iamge for label3 collection
+--label3: binary masked files for each source iamge for label3 collection
 
 Genrated paths in Dataset
 
